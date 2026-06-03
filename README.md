@@ -73,7 +73,7 @@ KEDOL is designed to provide utility across multiple ecosystem functions:
 
 ---
 
-## 💡 Community Governance
+## 🌾 Community Governance
 
 Future governance mechanisms may allow token holders to:
 
@@ -85,7 +85,7 @@ Future governance mechanisms may allow token holders to:
 
 ---
 
-## Staking Ecosystem
+## 💎 Staking Ecosystem
 
 Token holders may be able to stake KEDOL to:
 
@@ -96,7 +96,7 @@ Token holders may be able to stake KEDOL to:
 
 ---
 
-## Liquidity Incentives
+## 🌊 Liquidity Incentives
 
 KEDOL can be used to incentivize liquidity providers who contribute to healthy and sustainable market depth across KedolikSwap trading pairs.
 
@@ -208,7 +208,7 @@ The KedolikSwap team believes in transparency and open development.
 - Community governance updates
 - Transparent ecosystem announcements
 
-Verification Status
+## Verification Status
 
 - [x] Contract Verified
 
