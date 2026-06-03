@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.ibb.co/5XBmT7LX/kedolik.jpg" alt="kedolik" width="2048" border="0">
 <h1 align="center">
-Kedolik Swap - KEDOL Token
+KEDOLIK Token $KEDOL
 </h1>
 </p>
 <p align="center">
@@ -9,30 +9,17 @@ Kedolik Swap - Your Passport to the DeFi World
 </p>
 
 <p align="center">
-<a href="https://github.com/KedolikSwap/KEDOL-Token/blob/main/downloads" target="blank">
-<img src="https://img.shields.io/github/downloads/KedolikSwap/KEDOL-Token/total" alt="KedolikSwap downloads" />
-</a>
-<a href="https://github.com/KedolikSwap/KEDOL-Token/blob/main/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/KedolikSwap/KEDOL-Token" alt="KedolikSwap license" />
-</a>
-<a href="https://github.com/KedolikSwap/KEDOL-Token/blob/main/watchers" target="blank">
-<img src="https://img.shields.io/github/watchers/KedolikSwap/KEDOL-Token" alt="KedolikSwap watchers" />
-</a>
-<a href="https://github.com/KedolikSwap/KEDOL-Token/fork" target="blank">
-<img src="https://img.shields.io/github/forks/KedolikSwap/KEDOL-Token?style=flat-square" alt="KedolikSwap forks"/>
-</a>
-<a href="https://github.com/KedolikSwap/sponsors" target="blank">
-<img src="https://img.shields.io/github/sponsors/KedolikSwap?style=flat-square" alt="sponsors"/>
-</a>
-<a href="https://github.com/KedolikSwap/KEDOL-Token/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/KedolikSwap/KEDOL-Token?style=flat-square" alt="KedolikSwap stars"/>
-</a>
-<a href="https://github.com/KedolikSwap/followers" target="blank">
-<img src="https://img.shields.io/github/followers/KedolikSwap?style=flat-square" alt="followers"/>
-</a>
-<a href="https://github.com/KedolikSwap/KEDOL-Token/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/KedolikSwap/KEDOL-Token?style=flat-square" alt="KedolikSwap pull-requests"/>
-</a>
+ <img src="https://img.shields.io/github/last-commit/KedolikSwap/KEDOL-Token?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/issues/KedolikSwap/KEDOL-Token?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/KedolikSwap/KEDOL-Token?style=for-the-badge" />
+<img src="https://img.shields.io/github/watchers/KedolikSwap/KEDOL-Token?style=for-the-badge" />
+<img src="https://img.shields.io/github/downloads/KedolikSwap/KEDOL-Token/total?style=for-the-badge" alt="KedolikSwap downloads" />
+<img src="https://img.shields.io/badge/Token-KEDOL-success?style=for-the-badge" />
+<img src="https://img.shields.io/github/sponsors/KedolikSwap?style=for-the-badge" alt="sponsors"/>
+<img src="https://img.shields.io/github/stars/KedolikSwap/KEDOL-Token?style=for-the-badge" alt="KedolikSwap stars"/>
+<img src="https://img.shields.io/github/followers/KedolikSwap?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Blockchain-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -43,60 +30,200 @@ Kedolik Swap - Your Passport to the DeFi World
     <a href="https://github.com/KedolikSwap/KEDOL-Token/issues/new/choose">Request Feature</a>
 </p>
 
-## 🚀 Getting Started
+## 📖 Overview
 
-Welcome to Kedolik, where we are introducing a new, innovative, and utility-focused $KEDOL Token designed to leverage the power and speed of the advanced blockchain technology. Our mission is to create a high-performance digital asset supports decentralized finance (DeFi), and offers real-world utility for its holders.
+KEDOL is the native ecosystem token of KedolikSwap, a decentralized exchange (DEX) built on the Solana blockchain. The token serves as the core utility and incentive asset across the KedolikSwap ecosystem, enabling users to participate in trading rewards, staking programs, governance initiatives, liquidity incentives, and future ecosystem products.
 
-Kedolik is designed to deliver fast, reliable, and secure transactions with low fees and scalable infrastructure. It enables seamless and cost-effective interactions that open up exciting new possibilities for users and businesses alike. Whether you’re sending microtransactions, engaging with decentralized applications (dApps), or exploring new financial opportunities, Kedolik will provide a smooth and efficient experience.
+The vision behind KEDOL is to create a sustainable and community-driven digital asset that aligns incentives between traders, liquidity providers, developers, and long-term ecosystem supporters.
+
+By leveraging Solana's high-speed infrastructure and low transaction costs, KEDOL aims to provide a scalable foundation for decentralized finance (DeFi) adoption while supporting continuous innovation within the KedolikSwap ecosystem.
+
+---
+
+## 🎯 Mission
+
+Our mission is to build a decentralized ecosystem where:
+
+- Users retain full control over their assets.
+- Liquidity providers are fairly incentivized.
+- Governance is progressively decentralized.
+- Developers can build and integrate ecosystem products.
+- Community members actively participate in ecosystem growth.
+
+KEDOL acts as the economic engine that powers these objectives.
+
+---
 
 ## 🧐 Why Kedolik Swap - KEDOL Token
 
+## Utility Token
+
+KEDOL is designed to provide utility across multiple ecosystem functions:
+
 - Innovative Features
 - You Keep Your Keys
-- Protect the identity
-- Security & Control over crypto asset
-- Access comprehensive crypto information
-- Permissionless and Borderless
-- Transparent and Trustless
+- 25% discount on Swap, while paying fee in KEDOL
+- Staking rewards
+- Governance participation
+- Ecosystem partner integrations
+- Future premium platform features
+- Community reward programs
 - Build on Solana Blockchain
+- Security & Control over crypto asset
 
-## 💡 Benefits
+---
 
-- Fast Transactions
-- Low Fees
-- User-Friendly Interface
-- Multi-Blockchain Support
-- Securoty and Trustlessness
-- Increment of financial efficiency
-- Cross Chain Compatibility
+## 💡 Community Governance
 
+Future governance mechanisms may allow token holders to:
 
+- Vote on ecosystem proposals
+- Participate in protocol upgrades
+- Suggest feature enhancements
+- Influence treasury allocation decisions
+- Support ecosystem growth initiatives
 
-## 🛠️ More
+---
 
-- Global Access
-- Real-time Data
-- Customizable Charts
-- Offline & Online promotion
+## Staking Ecosystem
 
-## 🙏 Support
+Token holders may be able to stake KEDOL to:
 
-<p align="left">
-<a href="https://x.com/kedolik_swap">
-<img src="https://i.ibb.co/YFDX85fG/xfollow.png?style=social" alt="Kedolik Swap"/>
-</a>
-<a href="@Kedolik_Swap">
-<img src="https://i.ibb.co/zW9qH4sH/tgfollow.png?style=social" alt="Kedolik Swap"/>
-</a>
-</p>
+- Earn rewards
+- Support ecosystem stability
+- Access exclusive ecosystem benefits
+- Participate in governance mechanisms
 
-## 👉 🦸 KEDOL Token
+---
 
-<p align="center">
-<img src="https://i.ibb.co/mCXtCPpG/gm9.png" alt="ccdn" width="700" border="0">
-</p>
+## Liquidity Incentives
+
+KEDOL can be used to incentivize liquidity providers who contribute to healthy and sustainable market depth across KedolikSwap trading pairs.
+
+## Benefits include:
+
+- Increased liquidity
+- Reduced slippage
+- Better trading experience
+- Ecosystem growth
+
+---
+
+## ⚡ Why Solana?
+
+KEDOL is built on Solana because of its:
+
+- High transaction throughput
+- Extremely low fees
+- Fast settlement times
+- Expanding DeFi ecosystem
+- Strong developer infrastructure
+
+These advantages allow KedolikSwap to deliver an efficient and scalable user experience.
+
+---
+
+## 🏗 Ecosystem Components
+
+The KedolikSwap ecosystem consists of:
+
+## KedolikSwap DEX
+
+The decentralized exchange where users can:
+
+- Swap SPL tokens
+- Provide liquidity
+- Access future trading features
+- Lock and Stake
+- Participate in ecosystem incentives
+
+---
+
+## 📊 Token Information
+   
+| Parameter | Value |
+| --- | --- |
+|<img width=250/>|<img width=500/>|
+| Token Name | Kedolik TOKEN |
+| Symbol | KEDOL |
+| Blockchain | Solana |
+| Standard | SPL Token |
+| Decimals | 9 |
+| Total Supply | 100 M |
+| Circulating Supply | 100 M |
+| Contract Address | FUHwFRWE52FJXC4KoySzy9h6nNmRrppUg5unS4mKEDQN |
+| Authority Status | Revoked |
+| Freeze Authority | Revoked |
+| Mintable | No |
+
+---
+
+## 🔗 Token Explorer
+
+- **Solscan:** https://solscan.io/token/FUHwFRWE52FJXC4KoySzy9h6nNmRrppUg5unS4mKEDQN 
+- **Solana Explorer:** https://explorer.solana.com/address/FUHwFRWE52FJXC4KoySzy9h6nNmRrppUg5unS4mKEDQN
+
+---
+
+## 📈 Market Data & Trading
+
+Stay updated with real-time market activity, liquidity, volume, and price data.
+
+| Parameter | URL |
+| --- | --- |
+|<img width=150/>|<img width=500/>|
+| **DexScreener** | https://dexscreener.com/solana/FUHwFRWE52FJXC4KoySzy9h6nNmRrppUg5unS4mKEDQN |
+| **DexTools** | https://www.dextools.io/app/solana/pair-explorer/FUHwFRWE52FJXC4KoySzy9h6nNmRrppUg5unS4mKEDQN |
+| **Birdeye** | https://birdeye.so/solana/token/FUHwFRWE52FJXC4KoySzy9h6nNmRrppUg5unS4mKEDQN |
+| **UNCX** - **Solana Lockers** | https://solana.uncx.network/lockers/clmm/BU5qgQrcNNn7ikuZnJkEE8ZSqCmH2bSkrQ89pn2ExEHi |
+
+---
+
+## 🔗 Official Links
+
+Join the KedolikSwap community and stay updated with the latest developments.
+
+| Parameter | URL |
+| --- | --- |
+|<img width=250/>|<img width=500/>|
+| **Website** | https://kedolik.com |
+| **Email** | support@kedolik.com |
+| **X (Twitter)** | https://x.com/kedolik_swap |
+| **Telegram** | https://t.me/kedolik_swap |
+| **Documentation** | https://kedolik-swap.gitbook.io/guide |
+| **Whitepaper** | https://kedolik.com/whitepaper |
+| **Discord** | Coming Soon |
+
+---
+
+## 🔐 Transparency
+
+The KedolikSwap team believes in transparency and open development.
+
+## Public Resources
+
+- Open-source repositories
+- Public token contract
+- Public liquidity pool
+- Community governance updates
+- Transparent ecosystem announcements
+
+Verification Status
+
+- [x] Contract Verified
+
+- [x] Token Metadata Verified
+
+- [x] Solscan Listed
+
+- [x] DexScreener Listed
+
+- [x] DexTools Listed
+
+- [x] Birdeye Listed
+
+- [x] Liquidity Locked
+
 
 <hr>
-<p align="center">
-Developed with ❤️ in Singapore  
-</p>
+<p align="center">© 2025 - 2026 Kedolik Token $KEDOL. All Rights Reserved.</p>
