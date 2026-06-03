@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/5XBmT7LX/kedolik.jpg" alt="kedolik" width="2048" border="0">
+<img src="https://i.ibb.co/j9t19g2c/Kedol.png" alt="kedolik" width="2048" border="0">
 <h1 align="center">
 KEDOLIK Token $KEDOL
 </h1>
