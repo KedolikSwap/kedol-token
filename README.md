@@ -224,6 +224,11 @@ The KedolikSwap team believes in transparency and open development.
 
 - [x] Liquidity Locked
 
+## 🏁 Conclusion
+
+KEDOL serves as the foundation of the KedolikSwap ecosystem, empowering decentralized trading, liquidity provision, staking, and future ecosystem innovations. As the platform grows, KEDOL will continue to support a transparent, community-driven, and scalable DeFi experience on Solana.
+
+**The future of decentralized finance is built together. Welcome to KEDOL. 🚀**
 
 <hr>
 <p align="center">© 2025 - 2026 Kedolik Token $KEDOL. All Rights Reserved.</p>
