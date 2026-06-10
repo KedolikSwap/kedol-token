@@ -115,7 +115,7 @@ KedolikSwap will provide an intuitive interface for users to interact with Solan
 - **Reserve Fund:** 5% (5,000,000 tokens) to safeguard the project's future.
 - **Partnerships & Strategic Investments:** 5% (5,000,000 tokens) to incentivize collaborations and strategic investments.
 
-<h2>8. 🔍 Token Allocation Page</h2>
+<h2>8. 🔍 Token Allocation</h2>
  
 | Allocation | Token | Wallet |
 | --- | --- | --- |
