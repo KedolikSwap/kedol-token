@@ -115,6 +115,19 @@ KedolikSwap will provide an intuitive interface for users to interact with Solan
 - **Reserve Fund:** 5% (5,000,000 tokens) to safeguard the project's future.
 - **Partnerships & Strategic Investments:** 5% (5,000,000 tokens) to incentivize collaborations and strategic investments.
 
+<h2>8. 🔍 Token Allocation Page</h2>
+ 
+| Allocation | Token | Wallet |
+| --- | --- | --- |
+|<img width=250/>|<img width=250/>|<img width=250/>|
+| KEDOL Staking Rewards | 10M | FJDtxYomnymnL7ayR5DfZKnZPKweoSLUtgBb4cPmNcPzn |
+| KEDOL Marketing Fund | 10M | GN2oVntS4Qa15ZdhjYiroBcjp6PsujvMzx1nZRDTzffE |
+| KEDOL Ecosystem Reserve | 5M | AWZSVfoot8migVP6br43jQ59y4UDyDkQru8AZDwcCDRo |
+| KEDOL Partnership Fund | 5M | 45UvKDdj1apKXQpHWeoU14xAWTtZU13bw4e2xaGScz8N |
+| Team Tokens locked at GemPad | 5M | 7wFaXpXkLTPza6Wrq4ZFJyFjGqKtrsQHgEz1kzcHNmRh |
+| KEDOL Development Treasury | 5M | HtbjJewcboofZdVG484HNdgRXvGSFfd4F7bjbmDDGh1q |
+
+
 👉 **Vesting Period:**
 
 Tokens for the team and advisors will be subject to a 24-month vesting schedule with a 6-month cliff to ensure long-term commitment.
@@ -123,7 +136,7 @@ Tokens for the team and advisors will be subject to a 24-month vesting schedule 
 
 A portion of the transaction fees on the DEX will be burned periodically, ensuring a deflationary supply model that can increase \$KEDOL token scarcity over time.
 
-<h2>6. 🛣️ Roadmap</h2>
+<h2>9. 🛣️ Roadmap</h2>
 
 **Kedolik** project's roadmap outlines the key milestones we plan to achieve to bring the **\$KEDOL** token to life and ensure its long-term success. Here's a glimpse into the timeline:
 
@@ -178,7 +191,7 @@ A portion of the transaction fees on the DEX will be burned periodically, ensuri
 | Freeze Authority | Revoked |
 | Mintable | No |  
 
-<h2>9. 🔐 Security</h2>
+<h2>11. 🔐 Security</h2>
 
 Security is paramount to the success of any blockchain project, especially when handling decentralized finance (DeFi) assets. **Kedolik** is committed to providing a secure, transparent, and reliable platform for all users. To ensure the highest level of security, we will implement the following measures:
 
@@ -194,7 +207,7 @@ Security is a shared responsibility. To help users protect their assets, we will
 
 All smart contracts related to the **Kedolik**, including those used for staking, governance, and the decentralized exchange (DEX), will undergo third-party audits from well-respected cybersecurity firms. This will ensure that our contracts are free from vulnerabilities and potential exploits.
 
-<h2>10. 🏁 Conclusion</h2>
+<h2>12. 🏁 Conclusion</h2>
 
 Kedolik is designed to revolutionize decentralized finance by offering a fast, secure, and scalable **\$KEDOL** token that enhances decentralized exchanges. By integrating with high-performance blockchain, the project aims to create a seamless DeFi experience that empowers users through liquidity provision, staking and locks.
 
